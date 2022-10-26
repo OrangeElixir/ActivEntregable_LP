@@ -63,7 +63,7 @@ Public Class Conexion
     Public Function crearCadena() As String
         Dim cadena As String
         cadena = "Server=" & Me.Servidor & "; Database=" & Me.BaseDatos & ";"
-        If Me.Servidor Then
+        If Me.Seguridad Then
             cadena = cadena & "Integrated Security=SSPI"
         Else
             cadena = cadena & "User id=" & Me.Usuario & "; Password=" & Me.Clave & ";"

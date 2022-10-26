@@ -1,0 +1,12 @@
+C:\Users\MARCO AURELIO\Documents\Marco\Actividad_Entregable_LP\ActivEntregable\CapaEntidades\bin\Debug\net6.0\CapaEntidades.deps.json
+C:\Users\MARCO AURELIO\Documents\Marco\Actividad_Entregable_LP\ActivEntregable\CapaEntidades\bin\Debug\net6.0\CapaEntidades.dll
+C:\Users\MARCO AURELIO\Documents\Marco\Actividad_Entregable_LP\ActivEntregable\CapaEntidades\bin\Debug\net6.0\CapaEntidades.pdb
+C:\Users\MARCO AURELIO\Documents\Marco\Actividad_Entregable_LP\ActivEntregable\CapaEntidades\obj\Debug\net6.0\CapaEntidades.vbproj.AssemblyReference.cache
+C:\Users\MARCO AURELIO\Documents\Marco\Actividad_Entregable_LP\ActivEntregable\CapaEntidades\obj\Debug\net6.0\CapaEntidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MARCO AURELIO\Documents\Marco\Actividad_Entregable_LP\ActivEntregable\CapaEntidades\obj\Debug\net6.0\CapaEntidades.AssemblyInfoInputs.cache
+C:\Users\MARCO AURELIO\Documents\Marco\Actividad_Entregable_LP\ActivEntregable\CapaEntidades\obj\Debug\net6.0\CapaEntidades.AssemblyInfo.vb
+C:\Users\MARCO AURELIO\Documents\Marco\Actividad_Entregable_LP\ActivEntregable\CapaEntidades\obj\Debug\net6.0\CapaEntidades.vbproj.CoreCompileInputs.cache
+C:\Users\MARCO AURELIO\Documents\Marco\Actividad_Entregable_LP\ActivEntregable\CapaEntidades\obj\Debug\net6.0\CapaEntidades.dll
+C:\Users\MARCO AURELIO\Documents\Marco\Actividad_Entregable_LP\ActivEntregable\CapaEntidades\obj\Debug\net6.0\refint\CapaEntidades.dll
+C:\Users\MARCO AURELIO\Documents\Marco\Actividad_Entregable_LP\ActivEntregable\CapaEntidades\obj\Debug\net6.0\CapaEntidades.pdb
+C:\Users\MARCO AURELIO\Documents\Marco\Actividad_Entregable_LP\ActivEntregable\CapaEntidades\obj\Debug\net6.0\ref\CapaEntidades.dll
