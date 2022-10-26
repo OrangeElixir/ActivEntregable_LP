@@ -38,4 +38,26 @@ Public Class NAlumnos
         End Try
     End Function
 
+    Public Function Modificar(alumno As Alumnos) As Boolean
+        Try
+            Dim datos As New DAlumnos
+            datos.Modificar(alumno)
+            Return True
+        Catch ex As Exception
+            MsgBox(ex.Message)
+            Return Nothing
+        End Try
+    End Function
+
+    Public Function Eliminar(id As Integer) As Boolean
+        Try
+            Dim datos As New DAlumnos
+            datos.Eliminar(id)
+            Return True
+        Catch ex As Exception
+            MsgBox(ex.Message)
+            Return Nothing
+        End Try
+    End Function
+
 End Class
